@@ -29,5 +29,6 @@ public class abc
    public static void main(String[] args) 
    {
 	abc ob1=new abc(10,20,30);
+	System.out.println("3rd time code changed");
    }
  }
